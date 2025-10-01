@@ -3,9 +3,9 @@
   "theme": "willow",
   "name": "Test Docs",
   "colors": {
-    "primary": "#ff000",
-    "light": "#ff000",
-    "dark": "#ff000"
+    "primary": "#ff0000",
+    "light": "#ff0000",
+    "dark": "#ff0000"
   },
   "favicon": "/favicon.svg",
   "navigation": {

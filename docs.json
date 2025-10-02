@@ -1,13 +1,13 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "aspen",
-  "name": "Test Docs",
+  "name": "Fintables Docs",
   "colors": {
     "primary": "#ff0000",
     "light": "#ff0000",
     "dark": "#ff0000"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "https://fintables.com/favicon.svg",
   "navigation": {
     "languages": [
       {
@@ -47,37 +47,26 @@
           }
         ],
         "global": {
-          "anchors": [
-            {
-              "anchor": "Documentation",
-              "href": "https://mintlify.com/docs",
-              "icon": "book-open-cover"
-            },
-            {
-              "anchor": "Blog",
-              "href": "https://mintlify.com/blog",
-              "icon": "newspaper"
-            }
-          ]
+          "anchors": []
         }
       }
     ]
   },
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
+    "light": "https://fintables.com/images/logo.svg",
+    "dark": "https://fintables.com/images/logo.svg"
   },
   "navbar": {
     "links": [
       {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
+        "label": "İletişim",
+        "href": "https://fintables.com/iletisim"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Fintables'a dön",
+      "href": "https://fintables.com"
     }
   },
   "contextual": {
@@ -87,16 +76,14 @@
       "chatgpt",
       "claude",
       "perplexity",
-      "mcp",
-      "cursor",
-      "vscode"
+      "mcp"
     ]
   },
   "footer": {
     "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
+      "x": "https://x.com/fintables",
+      "youtube": "https://youtube.com/@fintables",
+      "linkedin": "https://linkedin.com/company/fintales"
     }
   }
 }

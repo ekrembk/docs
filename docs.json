@@ -3,9 +3,9 @@
   "theme": "aspen",
   "name": "Fintables Docs",
   "colors": {
-    "primary": "#ff0000",
-    "light": "#ff0000",
-    "dark": "#ff0000"
+    "primary": "#DA1E28",
+    "light": "#DA1E28",
+    "dark": "#DA1E28"
   },
   "favicon": "https://fintables.com/favicon.svg",
   "navigation": {

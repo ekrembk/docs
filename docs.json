@@ -29,6 +29,14 @@
             ]
           },
           {
+            "group": "Pro",
+            "pages": [
+              "pro/pro",
+              "pro/deneme",
+              "pro/deneme2"
+            ]
+          },
+          {
             "group": "Writing content",
             "pages": [
               "essentials/markdown",

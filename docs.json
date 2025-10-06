@@ -36,6 +36,14 @@
               "carpanlar/pd-dd",
               "carpanlar/fd-satis"
             ]
+          },    
+          {
+            "group": "Finansal Tablo Analizi",
+            "pages": [
+              "finansal-tablo/bilanco-analizi",
+              "finansal-tablo/gelir-tablosu-analizi",
+              "finansal-tablo/nakit-akis-analizi"
+            ]
           },
           {
             "group": "Writing content",
